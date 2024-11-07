@@ -19,7 +19,7 @@
 2. Скриншот настроек Router 1
 ![Router1](https://github.com/biparasite/11-01HW/blob/main/Router1.png)
 3. Скриншот настроек Router 2
-![Router2](https://github.com/biparasite/11-01HW/blob/main/Router2.png)
+![Router2](https://github.com/biparasite/11-01HW/blob/main/router2.png)
 
 
 ---
