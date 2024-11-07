@@ -15,7 +15,7 @@
  на Router1  интерфейс с IP 192.168.1.1 не переходил в Active, т.к. приоритет на Router2 был больше, а задать приоритет при падении линка на Packet Tracer нельзя.
 
 1. Схема
-![Схема в формате pkt](https://github.com/biparasite/11-01HW/blob/main/hsrp_advanced_HW.pkt)
+[Схема в формате pkt](https://github.com/biparasite/11-01HW/blob/main/hsrp_advanced_HW.pkt)
 2. Скриншот настроек Router 1
 ![Router1](https://github.com/biparasite/11-01HW/blob/main/Router1.png)
 3. Скриншот настроек Router 2
