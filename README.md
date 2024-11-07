@@ -14,8 +14,7 @@
 Для того, что HRSP правильно работало, на Router1, в настройках интерфейса GI0/1, поднял HSRP Priority 50 до 95, в противном случае, при падении линка между Switch0 и Router2, <br>
  на Router1  интерфейс с IP 192.168.1.1 не переходил в Active, т.к. приоритет на Router2 был больше, а задать приоритет при падении линка на Packet Tracer нельзя.
 
-1. Схема
-[Схема в формате pkt](https://github.com/biparasite/11-01HW/blob/main/hsrp_advanced_HW.pkt)
+1. [Схема в формате pkt](https://github.com/biparasite/11-01HW/blob/main/hsrp_advanced_HW.pkt)
 2. Скриншот настроек Router 1
 ![Router1](https://github.com/biparasite/11-01HW/blob/main/Router1.png)
 3. Скриншот настроек Router 2
