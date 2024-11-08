@@ -90,6 +90,7 @@ vrrp_instance VI_1 {
 
 Конфогурайионный файл VM2 backup
 
+```
 global_defs {
     vrrp_version 3
 }
@@ -106,3 +107,4 @@ vrrp_instance VI_1 {
     }
 }
 
+```
